@@ -9,6 +9,30 @@
 
 We jumped to a product idea before doing the hard work of figuring out *which personas to build for*. The product idea should follow from the research, not precede it.
 
+## Prerequisites (Before We Can Rank Anything)
+
+We can't score pain severity from the outside -- we'd just be guessing. Before ranking personas, we need actual signal on the following:
+
+### P1: Real Workflows, Not Job Descriptions
+Not what each persona's role is, but what their Tuesday actually looks like. What tools are open on their screen? Where do they waste time? Where do they copy-paste between systems? We have role summaries but not workflow-level detail.
+
+### P2: Where Money Is Being Wasted
+Which personas are paying for bad solutions, hiring people to do things software should do, or losing revenue due to friction? Follow the money -- time waste is interesting, but dollar waste is actionable.
+
+### P3: What People Are Actually Complaining About
+Reddit threads, BiggerPockets forums, industry conference talks, G2/Capterra reviews of existing tools. Real complaints from real users, not our assumptions about their problems.
+
+### P4: Existing Software Landscape Per Persona
+What tools does each persona actually use? What do they love, tolerate, and hate? Where are there 10 mediocre tools and no good one? Where is there one dominant incumbent everyone resents?
+
+### P5: Industry Economics
+Revenue per transaction, margins, deal volume, fee structures. A persona touching $50K transactions is a different opportunity than one touching $5M transactions. Unit economics shape everything.
+
+### P6: Regulatory and Structural Tailwinds/Headwinds
+NAR settlement reshaping agent commissions, $1.8T in maturing CRE debt, insurance market hardening, AI regulation. Which personas are being disrupted by forces outside their control right now? Tailwinds create urgency to buy.
+
+---
+
 ## Next Steps (In Order)
 
 ### Step 1: Pain Severity Ranking
